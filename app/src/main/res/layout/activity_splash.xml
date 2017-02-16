@@ -15,10 +15,10 @@
         android:gravity="center_horizontal"
         android:layout_gravity="center_vertical"
         android:textStyle="italic"
+        android:layout_marginBottom="76dp"
+        android:id="@+id/textView"
+        android:textColor="@android:color/black"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginBottom="233dp"
-        android:id="@+id/textView"
-        android:textColor="@android:color/black"/>
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
